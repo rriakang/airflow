@@ -1,0 +1,6 @@
+gitSync:
+	enabled: true
+	repo: <ssh url>
+	branch: main
+	subPath: ""
+	sshKeySecret: airflow-ssh-git-secret
